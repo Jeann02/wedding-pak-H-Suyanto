@@ -20,7 +20,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(img/h.suyanto.jpg);
+  background-image: url(img/1.jpg);
   background-size: cover;
   background-position: center;
   z-index: -1;
@@ -55,13 +55,13 @@ body {
 }
 
 .hero a {
-  color: var(--blue);
+  color: var(--pink);
   background-color: white;
   box-shadow: var(--shadow);
 }
 
 .hero a:hover {
-  background-color: var(--blue);
+  background-color: var(--pink);
   color: white;
 }
 
@@ -109,7 +109,7 @@ body {
 }
 
 .home h2 {
-  color: var(--blue);
+  color: var(--pink);
   font-size: 5rem;
   font-family: 'sacramento';
   font-weight: bold;
@@ -133,7 +133,7 @@ body {
 .home .couple h3 {
   font-family: 'sacramento';
   font-size: 2.5rem;
-  color: var(--blue);
+  color: var(--pink);
 }
 
 .home .couple img {
@@ -171,7 +171,7 @@ body {
 }
 
 .info h2 {
-  color: var(--blue);
+  color: var(--pink);
   font-family: 'sacramento';
   font-size: 5rem;
   font-weight: bold;
@@ -218,7 +218,7 @@ body {
 }
 
 .story h2 {
-  color: var(--blue);
+  color: var(--pink);
   font-family: 'sacramento';
   font-size: 5rem;
   font-weight: bold;
@@ -367,7 +367,7 @@ body {
 }
 
 .gallery h2 {
-  color: var(--blue);
+  color: var(--pink);
   font-family: 'sacramento';
   font-size: 5rem;
   font-weight: bold;
@@ -399,7 +399,7 @@ body {
 }
 
 .rsvp h2 {
-  color: var(--blue);
+  color: var(--pink);
   font-family: 'sacramento';
   font-size: 4.5rem;
   font-weight: bold;
@@ -418,14 +418,14 @@ body {
 }
 
 .rsvp button {
-  background-color: var(--blue);
+  background-color: var(--pink);
   color: white;
-  border: 1px solid var(--blue);
+  border: 1px solid var(--pink);
 }
 
 .rsvp button:hover {
   background-color: white;
-  color: var(--blue);
+  color: var(--pink);
   border: 1px solid var(white);
 }
 
@@ -441,7 +441,7 @@ body {
 }
 
 .gifts h2 {
-  color: var(--blue);
+  color: var(--pink);
   font-family: 'sacramento';
   font-size: 4.5rem;
   font-weight: bold;
@@ -474,7 +474,7 @@ body {
 /* Footer Start */
 
 .footer {
-  background-color: var(--blue);
+  background-color: var(--pink);
   padding: 1.5rem;
   text-align: center;
 }
